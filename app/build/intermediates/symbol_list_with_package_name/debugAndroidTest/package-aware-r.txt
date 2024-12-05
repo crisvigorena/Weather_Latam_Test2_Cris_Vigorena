@@ -1,0 +1,3 @@
+com.desafiolatam.weatherlatam.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

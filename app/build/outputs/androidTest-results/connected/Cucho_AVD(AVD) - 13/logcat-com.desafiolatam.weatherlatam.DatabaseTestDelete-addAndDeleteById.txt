@@ -1,0 +1,2 @@
+12-05 04:06:13.532 20398 20416 I TestRunner: started: addAndDeleteById(com.desafiolatam.weatherlatam.DatabaseTestDelete)
+12-05 04:06:13.861 20398 20416 I TestRunner: finished: addAndDeleteById(com.desafiolatam.weatherlatam.DatabaseTestDelete)

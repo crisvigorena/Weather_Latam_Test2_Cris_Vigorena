@@ -1,0 +1,68 @@
+# 2024-12-05T07:06:23.685Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 1
+}
+test_status: PASSED
+test_result {
+  test_case {
+    test_class: "DatabaseTestDelete"
+    test_package: "com.desafiolatam.weatherlatam"
+    test_method: "addAndDeleteById"
+    start_time {
+      seconds: 1733382382
+      nanos: 475000000
+    }
+    end_time {
+      seconds: 1733382382
+      nanos: 805000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Developer\\WeatherLatamTest_1\\app\\build\\outputs\\androidTest-results\\connected\\Cucho_AVD(AVD) - 13\\logcat-com.desafiolatam.weatherlatam.DatabaseTestDelete-addAndDeleteById.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Developer\\WeatherLatamTest_1\\app\\build\\outputs\\androidTest-results\\connected\\Cucho_AVD(AVD) - 13\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Developer\\WeatherLatamTest_1\\app\\build\\outputs\\androidTest-results\\connected\\Cucho_AVD(AVD) - 13\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Developer\\WeatherLatamTest_1\\app\\build\\outputs\\androidTest-results\\connected\\Cucho_AVD(AVD) - 13\\cpuinfo"
+    }
+  }
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "D:\\Developer\\WeatherLatamTest_1\\app\\build\\outputs\\androidTest-results\\connected\\Cucho_AVD(AVD) - 13\\testlog\\test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}

@@ -1,0 +1,6 @@
+com.desafiolatam.weatherlatam.test.app-core-1.5.0-0 C:\Users\Cucho\.gradle\caches\transforms-3\12087d3b9e9ed1646232328e7220cadc\transformed\core-1.5.0\res
+com.desafiolatam.weatherlatam.test.app-annotation-experimental-1.3.0-1 C:\Users\Cucho\.gradle\caches\transforms-3\70c573556c37ca1af1af7fbdbeea79bb\transformed\annotation-experimental-1.3.0\res
+com.desafiolatam.weatherlatam.test.app-androidTest-2 D:\Developer\WeatherLatamTest_1\app\build\generated\res\resValues\androidTest\debug
+com.desafiolatam.weatherlatam.test.app-mergeDebugAndroidTestResources-3 D:\Developer\WeatherLatamTest_1\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.desafiolatam.weatherlatam.test.app-mergeDebugAndroidTestResources-4 D:\Developer\WeatherLatamTest_1\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.desafiolatam.weatherlatam.test.app-merged_res-5 D:\Developer\WeatherLatamTest_1\app\build\intermediates\merged_res\debugAndroidTest
